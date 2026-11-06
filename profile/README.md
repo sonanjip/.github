@@ -23,7 +23,7 @@ Four Android apps that keep your AI on your phone. No account and no cloud: the 
 ## How they fit together
 
 ```mermaid
-flowchart TB
+flowchart RL
     subgraph phone["📱 Your phone (nothing leaves it)"]
         M["💬 Malbotdari<br/>chat assistant"]
         N["👁️ Nunsori<br/>file search"]

@@ -23,7 +23,7 @@ AI를 폰 안에 두는 Android 앱 네 개입니다. 계정도 클라우드도 
 ## 앱 사이의 관계
 
 ```mermaid
-flowchart TB
+flowchart RL
     subgraph phone["📱 내 폰 (밖으로 나가는 것 없음)"]
         M["💬 말벗다리<br/>채팅 비서"]
         N["👁️ 눈소리<br/>파일 검색"]
