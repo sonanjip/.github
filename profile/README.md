@@ -20,6 +20,26 @@ Four Android apps that keep your AI on your phone. No account and no cloud: the 
 <img src="https://raw.githubusercontent.com/sonanjip/malbotdari/main/docs/images/demo.gif" width="180" alt="Malbotdari">
 </p>
 
+## How they fit together
+
+```mermaid
+flowchart TB
+    subgraph phone["📱 Your phone (nothing leaves it)"]
+        M["💬 Malbotdari<br/>chat assistant"]
+        N["👁️ Nunsori<br/>file search"]
+        J["🧩 Jogakbo<br/>notes"]
+        O["♨️ OndolSaem<br/>model host"]
+    end
+    M -- "search and read files" --> N
+    M -- "search and read notes" --> J
+    N -. "index changed" .-> M
+    M -- "chat, decisions" --> O
+    N -- "embeddings, OCR, speech, faces" --> O
+    J -- "summaries, speech, embeddings, tags" --> O
+```
+
+OndolSaem needs none of the others and all of them build on it, so install it first. Nunsori and Jogakbo need only OndolSaem; Malbotdari uses OndolSaem plus Nunsori and Jogakbo when they are installed.
+
 ## About the names
 
 Every name here is a compound of everyday Korean words that is easy to say in English, with a backronym that says what it does.
