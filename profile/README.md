@@ -1,5 +1,3 @@
-<img src="sonanjip.png" width="96" align="right" alt="A small hanok held in a hand">
-
 # Sonanjip / 손안집
 
 **English** | [한국어](README.ko.md)
