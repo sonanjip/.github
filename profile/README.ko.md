@@ -1,5 +1,3 @@
-<img src="sonanjip.png" width="96" align="right" alt="손 위에 놓인 작은 한옥">
-
 # 손안집 / Sonanjip
 
 [English](README.md) | **한국어**
