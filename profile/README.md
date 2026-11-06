@@ -20,4 +20,14 @@ Four Android apps that keep your AI on your phone. No account and no cloud: the 
 <img src="https://raw.githubusercontent.com/sonanjip/malbotdari/main/docs/images/demo.gif" width="180" alt="Malbotdari">
 </p>
 
+## About the names
+
+Every name here is a compound of everyday Korean words that is easy to say in English, with a backronym that says what it does.
+
+- **손안집 (Sonanjip)**: **손** (hand) + **안** (inside) + **집** (house), *a house in the palm of your hand*. The apps live in the phone you hold, and what is yours stays inside that house. *Ondol* and *jogakbo* already come from a Korean home, so the organization is the house they share. Backronym: **S**earch, **O**rganize, **N**ote, **A**sk (what the apps do) — **N**atively, **J**ointly, **I**n **P**rivate (how they do it).
+- **온돌샘 (OndolSaem)**: **온돌**, the floor heating that warms a whole house from underneath, + **샘**, a spring everyone draws from. It sits below the other apps, keeps the models warm and lets every app draw from the same source. ONDOL + SAEM. [More](https://github.com/sonanjip/ondolsaem#about-the-name)
+- **눈소리 (Nunsori)**: **눈** (eye) + **소리** (sound). It indexes what can be seen and what can be heard. NUNSORI. [More](https://github.com/sonanjip/nunsori#about-the-name)
+- **조각보 (Jogakbo)**: **조각** (scrap) + **보** (wrapping cloth), a patchwork cloth sewn from scraps, as notes are stitched from web pages, videos, recordings and memos. JOGAKBO. [More](https://github.com/sonanjip/jogakbo#about-the-name)
+- **말벗다리 (Malbotdari)**: **말벗** (someone to talk to) + **다리** (bridge). An assistant to talk with that bridges your other apps. MALBOT + DARI. [More](https://github.com/sonanjip/malbotdari#about-the-name)
+
 **Install**: start with OndolSaem, then add the apps you want. APKs are on each repository's Releases page (Android 10+, arm64). The apps are signed with the same key, so they connect to each other directly.

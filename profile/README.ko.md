@@ -20,4 +20,14 @@ AI를 폰 안에 두는 Android 앱 네 개입니다. 계정도 클라우드도 
 <img src="https://raw.githubusercontent.com/sonanjip/malbotdari/main/docs/images/demo.gif" width="180" alt="말벗다리">
 </p>
 
+## 이름의 뜻
+
+여기의 이름은 모두 영어로도 발음하기 쉬운 일상적인 한국어 단어의 조합이고, 하는 일을 풀어 쓴 역두문자가 붙어 있습니다.
+
+- **손안집 (Sonanjip)**: **손** + **안** + **집**, *손안의 집*입니다. 앱들은 손에 쥔 폰 안에 살고, 내 것은 그 집 밖으로 나가지 않습니다. *온돌*과 *조각보*가 이미 한옥 살림에서 온 이름이라, 조직은 그 앱들이 함께 사는 집이 됩니다. 역두문자: **S**earch, **O**rganize, **N**ote, **A**sk(앱들이 하는 일) — **N**atively, **J**ointly, **I**n **P**rivate(하는 방식).
+- **온돌샘 (OndolSaem)**: 집 전체를 밑에서 데우는 **온돌** + 누구나 물을 길어 가는 **샘**. 다른 앱들 아래에서 모델을 데워 두고, 모든 앱이 같은 샘에서 길어 갑니다. ONDOL + SAEM. [자세히](https://github.com/sonanjip/ondolsaem/blob/main/README.ko.md#이름의-뜻)
+- **눈소리 (Nunsori)**: **눈** + **소리**. 눈으로 보는 것과 귀로 듣는 것을 함께 인덱싱합니다. NUNSORI. [자세히](https://github.com/sonanjip/nunsori/blob/main/README.ko.md#이름의-뜻)
+- **조각보 (Jogakbo)**: **조각** + **보**. 자투리 천을 이어 만든 보자기처럼, 웹페이지·영상·녹음·메모 조각을 이어 노트로 모읍니다. JOGAKBO. [자세히](https://github.com/sonanjip/jogakbo/blob/main/README.ko.md#이름의-뜻)
+- **말벗다리 (Malbotdari)**: 이야기 상대 **말벗** + 앱을 잇는 **다리**. 대화하는 비서이면서 다른 앱으로 건너가 답을 찾아옵니다. MALBOT + DARI. [자세히](https://github.com/sonanjip/malbotdari/blob/main/README.ko.md#이름의-뜻)
+
 **설치**: 온돌샘을 먼저 설치하고, 원하는 앱을 추가하세요. APK는 각 레포의 Releases에 있습니다(Android 10 이상, arm64). 네 앱은 같은 키로 서명되어 서로 승인 없이 바로 연결됩니다.
