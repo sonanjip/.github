@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" width="1000" height="1000">
+  <rect width="500" height="500" fill="#F4E6D4"/>
+  <ellipse cx="250" cy="455" rx="220" ry="50" fill="#EBCFB0"/>
+  <g transform="translate(0,-20)">
+  <!-- fingers, curled up on the right -->
+  <g fill="#E3A574" stroke="#C9865A" stroke-width="4">
+    <rect x="352" y="300" width="96" height="34" rx="17" transform="rotate(-38 400 317)"/>
+    <rect x="356" y="326" width="96" height="34" rx="17" transform="rotate(-30 404 343)"/>
+    <rect x="352" y="352" width="92" height="34" rx="17" transform="rotate(-22 398 369)"/>
+    <rect x="340" y="376" width="84" height="32" rx="16" transform="rotate(-14 382 392)"/>
+  </g>
+  <!-- palm -->
+  <path d="M96,350 C96,330 112,322 130,322 L360,322 C384,322 392,340 388,362 C380,400 350,424 300,428 L170,428 C122,428 96,396 96,350 Z" fill="#E3A574"/>
+  <!-- thumb on the left -->
+  <rect x="64" y="300" width="96" height="36" rx="18" transform="rotate(28 112 318)" fill="#E3A574" stroke="#C9865A" stroke-width="4"/>
+  <!-- stone platform -->
+  <rect x="140" y="296" width="220" height="26" rx="5" fill="#8C7A6B"/>
+  <!-- walls -->
+  <rect x="160" y="204" width="180" height="92" fill="#FFF7EC"/>
+  <rect x="170" y="218" width="32" height="64" rx="3" fill="#2F7FB6"/>
+  <rect x="212" y="218" width="32" height="64" rx="3" fill="#C8643B"/>
+  <rect x="254" y="218" width="32" height="64" rx="3" fill="#5B8C5A"/>
+  <rect x="296" y="218" width="32" height="64" rx="3" fill="#E0A83B"/>
+  <rect x="156" y="200" width="10" height="96" fill="#8A4B2A"/>
+  <rect x="334" y="200" width="10" height="96" fill="#8A4B2A"/>
+  <!-- curved hanok roof with upturned eaves -->
+  <path d="M96,200 C120,204 140,200 160,190 L200,150 C215,136 230,130 250,130 C270,130 285,136 300,150 L340,190 C360,200 380,204 404,200 C396,216 372,222 346,218 L154,218 C128,222 104,216 96,200 Z" fill="#3B4656"/>
+  <path d="M190,164 L310,164" stroke="#56637A" stroke-width="5" stroke-linecap="round"/>
+  <path d="M170,184 L330,184" stroke="#56637A" stroke-width="5" stroke-linecap="round"/>
+  <rect x="226" y="122" width="48" height="12" rx="6" fill="#2C3543"/>
+  </g>
+</svg>
