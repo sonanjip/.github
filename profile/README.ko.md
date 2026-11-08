@@ -18,6 +18,7 @@ AI를 폰 안에 두는 Android 앱 네 개입니다. 계정도 클라우드도 
 <img src="https://raw.githubusercontent.com/sonanjip/nunsori/main/docs/images/demo-search.gif" width="180" alt="눈소리">
 <img src="https://raw.githubusercontent.com/sonanjip/jogakbo/main/docs/images/demo.gif" width="180" alt="조각보">
 <img src="https://raw.githubusercontent.com/sonanjip/malbotdari/main/docs/images/demo.gif" width="180" alt="말벗다리">
+<img src="https://raw.githubusercontent.com/sonanjip/malbotdari/main/docs/images/demo-imagegen.gif" width="180" alt="말벗다리 (이미지 생성)">
 </p>
 
 ## 앱 사이의 관계

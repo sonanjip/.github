@@ -18,6 +18,7 @@ Four Android apps that keep your AI on your phone. No account and no cloud: the 
 <img src="https://raw.githubusercontent.com/sonanjip/nunsori/main/docs/images/demo-search.gif" width="180" alt="Nunsori">
 <img src="https://raw.githubusercontent.com/sonanjip/jogakbo/main/docs/images/demo.gif" width="180" alt="Jogakbo">
 <img src="https://raw.githubusercontent.com/sonanjip/malbotdari/main/docs/images/demo.gif" width="180" alt="Malbotdari">
+<img src="https://raw.githubusercontent.com/sonanjip/malbotdari/main/docs/images/demo-imagegen.gif" width="180" alt="Malbotdari (Image Generation)">
 </p>
 
 ## How they fit together
